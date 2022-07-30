@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Extra
+venv
+optimized_images
+original_images
+readme.txt
